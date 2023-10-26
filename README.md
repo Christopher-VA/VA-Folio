@@ -33,4 +33,5 @@ I am unsure on what has happened but will editing my css the website seems to ha
 ```
 
 ## Project
-![VA-Folio](./Assets\Images\VA-Folio.PNG)
+![VA-Folio](./Assets/Images/VA-Folio.PNG)
+Link: https://christopher-va.github.io/VA-Folio/
